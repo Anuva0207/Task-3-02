@@ -1,0 +1,64 @@
+
+body{
+    background:#c9dd62;
+    margin:0;
+    padding:0;
+    user-select: none;
+
+
+}
+
+.col-md-5entries{
+    padding:3% 8%;
+    margin:5%; 
+    border:2px #5a189a; 
+    color:#474448;
+    text-align:center;
+      
+}
+input[type=text]{
+    width:100%;
+    padding:2%;
+    margin:2%;
+    border:0.5rem;
+    border-radius:0.5rem;
+    background:#f6f4d2/*#609f9f*/;
+       
+}
+input:hover{
+    background:#ffac70;
+}
+.profile{
+    text-align:center;
+}
+#profilecard{
+    background:#a44a3f;/*#240046;*/
+    font-weight: 700;
+    font-size:20px;
+    padding:3% 5%;
+    margin:5%;
+    border-radius:80px;
+    width:80%;
+    color:#e6b89c/*#9f86c0;/*#96dbd2/*#ffbf69*/;
+}
+
+.card-entries{
+    padding:1%;
+    margin:1%;
+}
+
+button{
+    outline: none;
+    background-color:#a44a3f;
+    color:white;
+    text-align:center;
+    border-radius:8px;
+    padding:8px;
+    cursor: pointer;
+}
+button:hover{
+    background:#ffac70;
+    color:black;
+}
+
+
